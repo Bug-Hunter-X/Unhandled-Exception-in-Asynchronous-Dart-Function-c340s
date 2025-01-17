@@ -1,0 +1,3 @@
+# Unhandled Exception in Asynchronous Dart Function
+
+This example demonstrates a common issue in Dart: how to properly handle exceptions in asynchronous operations using `async` and `await`.  Improper error handling can lead to application crashes or unexpected behavior.  The provided solution shows how to implement robust error handling using try-catch blocks and the `Future.catchError` method for improved resilience.
